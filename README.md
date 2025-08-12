@@ -1,6 +1,7 @@
 <img src="logo.png" width="150" alt="the mod's logo" />
+
 # Automatic Macro Maker
-**Developer:** entity12208  
+**Developer:** entity12208
 **Platform:** Windows (Geode SDK)
 
 ## Overview
