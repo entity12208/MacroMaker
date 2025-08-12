@@ -6,9 +6,9 @@
 		"mac": "2.2074",
 		"ios": "2.2074"
 	},
-	"id": "$MOD_ID",
-	"name": "$MOD_NAME",
-	"version": "$MOD_VERSION",
-	"developer": "$MOD_DEVELOPER",
-	"description": "$MOD_DESCRIPTION"
+	"id": "entity12208.macromaker",
+	"name": "Macro Maker",
+	"version": "1.0.0",
+	"developer": "entity12208",
+	"description": "A macro maker for GD!"
 }
